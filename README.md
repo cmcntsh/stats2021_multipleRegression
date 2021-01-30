@@ -6,8 +6,8 @@
 
 ## Readings
 
-* Field chapter 9 sections 9.1 - 9.8 (skim)
-* Learn Statistics with Jamovi 12.3 - 12.10 (skim) available at: https://drive.google.com/file/d/1VoIwuVI4BOTMC3BQx6oHu6zoPV80ljls/view
+* Field chapter 9 sections 9.9 - 9.11
+* Learn Statistics with Jamovi 12.5 - 12.9 available at: https://drive.google.com/file/d/1VoIwuVI4BOTMC3BQx6oHu6zoPV80ljls/view
 
 ## Statistical Concept Videos
 
