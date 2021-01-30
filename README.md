@@ -2,7 +2,7 @@
 
 ## Exercises
 
-* Simple regression exercise: https://github.com/cmcntsh/stats2021_exer_simpleRegression
+* Multiple regression exercise: https://github.com/cmcntsh/stats2021_exer_multipleRegression
 
 ## Readings
 
@@ -11,8 +11,13 @@
 
 ## Statistical Concept Videos
 
-* Simple linear regression (19 min): https://www.youtube.com/watch?v=vblX9JVpHE8
-* Regression (13 min): https://www.youtube.com/watch?v=WWqE7YHR4Jc&t=97s
+* Mulitple regression basics (21 min): https://www.youtube.com/watch?v=dQNpSa-bq4M
+* Multiple regression data preparation (25 min): https://www.youtube.com/watch?v=2I_AYIECCOQ
+* Multiple regression evaluating basic models (26 min): https://www.youtube.com/watch?v=wPJ1_Z8b0wk&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=3
+* Multiple regression evaluating basic models continued (27 min): https://www.youtube.com/watch?v=px72eCYPuvc&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=4
+* Multiple regression dummy variables (21 min) (optional): https://www.youtube.com/watch?v=fTfMdCQJz4s&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=5
+* Multiple regression two categorical variables (19 min) (optional): https://www.youtube.com/watch?v=YwsYKNWSw2o&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=6
+* Multiple regression categorical variables continued (18 min) (optional): https://www.youtube.com/watch?v=SdHmOD-w_2s&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=7
 
 ## Statistical Software Videos
 
