@@ -20,6 +20,7 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 * Multiple regression dummy variables (21 min) (optional): https://www.youtube.com/watch?v=fTfMdCQJz4s&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=5
 * Multiple regression two categorical variables (19 min) (optional): https://www.youtube.com/watch?v=YwsYKNWSw2o&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=6
 * Multiple regression categorical variables continued (18 min) (optional): https://www.youtube.com/watch?v=SdHmOD-w_2s&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-&index=7
+* Multiple regression series (17 videos) (optional): https://www.youtube.com/watch?v=dQNpSa-bq4M&list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-
 
 ## Statistical Software Videos
 
